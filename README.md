@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - I'm a Data Analyst with a unique and solid background in SaaS sales and business management. 
 - I combine a strong data-driven approach with sales and marketing expertise to drive informed business decisions. 
 - I'm proficient in translating complex data into actionable recommendations by consistently delivering tangible results.
+-->
+
+I'm a Data Analyst with a unique and solid background in SaaS sales and business management. I combine a strong data-driven approach with sales and marketing expertise to drive informed business decisions. I'm proficient in translating complex data into actionable recommendations by consistently delivering tangible results.
 - 👯 I'm currently helping a non-profit organisation at extracting valuable insights from their database to achieve their team goal by optimising the existing strategies and empowering multifunctional teams.
 - 🔭 I'm currently working on automating the data cleaning process with a list of organisations in the Excel database and Salesforce database using Python.
 - 🌱 I'm currently exploring if it is possible to do web scraping of organisation names to find the right name using LinkedIn API.
 - 🤔 I'm looking for help with using the LinkedIn developer account to achieve the above web scraping using Python. 
 - 📫 You can reach me at: dheepcho@gmail.com
-- 😄 Fun Fact: I'm curious to the extreme that I go the extra mile to learn about multiple tools beyond my work requirements. 
+- 😄 Fun Fact: I'm curious to the extreme that I go the extra mile to learn about multiple tools beyond my work requirements just for fun to solve the mystery of the unknown. As they say, "Sky is the limit to learning anything!" My learning journey will always continue happily ...
